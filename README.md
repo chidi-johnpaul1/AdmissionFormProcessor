@@ -88,6 +88,7 @@ If everything  is all right a message dialog will pop up telling the applicant  
 If the there is any field not filled   when the applicant click on continue or submit a message dialog will pop up telling the applicant to fill the particuler field.
 
 ![image](https://user-images.githubusercontent.com/46085705/151659310-a9a223b1-aff0-4bee-b9b5-137b719ca84a.png)
+
 2. FOR THE ADMINISTRATOR
 
 ![image](https://user-images.githubusercontent.com/46085705/151659333-f119c530-4744-475f-ae0d-1f8bfb5c0326.png)
