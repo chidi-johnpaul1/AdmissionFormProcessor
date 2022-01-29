@@ -78,7 +78,8 @@ In this application the applicant clicks on the picture under click to register 
 
  The applicant after filling the application form will click on continue button which will display another form for qualification. 
  ![image](https://user-images.githubusercontent.com/46085705/151659290-447c388e-d1d3-476b-92ae-db8d8761d6cc.png)
-After filling the qualification form, the applicant will click on submit button to submit the application. If everything  is all right a message dialog will pop up telling the applicant  thank you for completing the registration successfully. 
+After filling the qualification form, the applicant will click on submit button to submit the application. 
+If everything  is all right a message dialog will pop up telling the applicant  thank you for completing the registration successfully. 
 ![image](https://user-images.githubusercontent.com/46085705/151659299-95b5d9fd-b56e-4206-8e4a-b56776aa0712.png)
 If the there is any field not filled   when the applicant click on continue or submit a message dialog will pop up telling the applicant to fill the particuler field.
 
@@ -87,7 +88,8 @@ If the there is any field not filled   when the applicant click on continue or s
 
 ![image](https://user-images.githubusercontent.com/46085705/151659333-f119c530-4744-475f-ae0d-1f8bfb5c0326.png)
 
-For the administrator to view the details of admmissions for the year  in  different  course of study, a password is required . When  the administrator enters a correct password a table form will be displayed from where the administrator can select school and course to see how many people that applied for that particular course.
+For the administrator to view the details of admmissions for the year  in  different  course of study, a password is required . 
+When  the administrator enters a correct password a table form will be displayed from where the administrator can select school and course to see how many people that applied for that particular course.
 
 ![image](https://user-images.githubusercontent.com/46085705/151659367-424c04c7-7381-43a2-8f4e-a5702284c34c.png)
 In the event that the administrator enters a wrong password he/she  will be prompted to enter a valid 
