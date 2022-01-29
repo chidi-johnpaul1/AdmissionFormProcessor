@@ -79,9 +79,12 @@ In this application the applicant clicks on the picture under click to register 
 
  The applicant after filling the application form will click on continue button which will display another form for qualification. 
  ![image](https://user-images.githubusercontent.com/46085705/151659290-447c388e-d1d3-476b-92ae-db8d8761d6cc.png)
-After filling the qualification form, the applicant will click on submit button to submit the application. 
-If everything  is all right a message dialog will pop up telling the applicant  thank you for completing the registration successfully. 
+After filling the qualification form, the applicant will click on submit button to submit the application.
+
+If everything  is all right a message dialog will pop up telling the applicant  thank you for completing the registration successfully.
+
 ![image](https://user-images.githubusercontent.com/46085705/151659299-95b5d9fd-b56e-4206-8e4a-b56776aa0712.png)
+
 If the there is any field not filled   when the applicant click on continue or submit a message dialog will pop up telling the applicant to fill the particuler field.
 
 ![image](https://user-images.githubusercontent.com/46085705/151659310-a9a223b1-aff0-4bee-b9b5-137b719ca84a.png)
@@ -95,6 +98,7 @@ When  the administrator enters a correct password a table form will be displayed
 ![image](https://user-images.githubusercontent.com/46085705/151659367-424c04c7-7381-43a2-8f4e-a5702284c34c.png)
 In the event that the administrator enters a wrong password he/she  will be prompted to enter a valid 
 Password to view report.
+
 ![image](https://user-images.githubusercontent.com/46085705/151659381-2f8ce371-7150-4839-83c9-ff78d2c56598.png)
 
 3. DATA STORAGE
