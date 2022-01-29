@@ -125,9 +125,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/chidi-johnpaul1/AdmissionFormProcessor.git
    ```
-  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -135,12 +134,9 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <!-- USAGE EXAMPLES -->
 ## Usage
- Open the distribution folder and double click the jar file to run the application on your desktop
-
+Open the distribution folder and double click the jar file to run the application on your desktop
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- ROADMAP -->
 ## Roadmap
