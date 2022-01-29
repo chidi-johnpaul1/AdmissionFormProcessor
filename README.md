@@ -71,6 +71,7 @@ The application has two module:
  2. For the Administrator
 
 ![image](https://user-images.githubusercontent.com/46085705/151659047-ffa62f81-a47d-4a36-b1c0-6f4ff3f6aa1d.png)
+
 FOR THE APPLICANTS:
 In this application the applicant clicks on the picture under click to register  and the application form will display.
 
