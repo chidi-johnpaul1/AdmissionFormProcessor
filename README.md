@@ -29,8 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  ![EDU26](https://user-images.githubusercontent.com/46085705/151659622-6aa7b5f6-035c-4e64-b3cf-1e0b602ff6da.jpg)
   </a>
 
   <h3 align="center">Best-README-Template</h3>
