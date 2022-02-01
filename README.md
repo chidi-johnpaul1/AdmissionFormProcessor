@@ -26,7 +26,7 @@
   ![EDU26](https://user-images.githubusercontent.com/46085705/151659622-6aa7b5f6-035c-4e64-b3cf-1e0b602ff6da.jpg)
   </a>
 
-  <h3 align="center">Graduate admission application form using Java Swing </h3>
+  <h3 align="center">Graduate admission application form processing using Java Swing Framework</h3>
 
 
 <!-- TABLE OF CONTENTS -->
