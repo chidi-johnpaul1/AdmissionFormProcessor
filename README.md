@@ -110,7 +110,6 @@ The application uses random access file to read and write the data in a CSV text
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [Swing framework](https://nextjs.org/)
 *
